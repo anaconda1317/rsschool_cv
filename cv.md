@@ -1,4 +1,5 @@
 # rsschool_cv
-my CV_2022_12_06_22
 
-anaconda1317
+## my CV_2022
+
+test <https://anaconda1317.github.io/rsschool_cv/cv>
